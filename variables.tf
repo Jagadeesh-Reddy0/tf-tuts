@@ -1,6 +1,6 @@
-variable "ami" {
+vvariable "ami" {
    type        = string
-   description = "Ubuntu AMI ID in N. Virginia Region"
+   description = "Ubuntu AMI ID in Mumbai Region"
    default     = "ami-06b6e5225d1db5f46"
 }
 
